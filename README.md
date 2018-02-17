@@ -11,7 +11,9 @@ npm i -g sloww
 
 ## Usage
 
-> sloww --host domain.example --port 80
+```shell
+sloww --host domain.example --port 80
+```
 
 ## Options
 

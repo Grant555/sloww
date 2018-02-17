@@ -1,6 +1,6 @@
 {
   "name": "sloww",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight Slowloris attack CLI in Node",
   "bin": {
     "sloww": "./lib/cli.js"
