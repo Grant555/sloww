@@ -1,0 +1,30 @@
+{
+  "name": "sloww",
+  "version": "1.0.0",
+  "description": "Lightweight Slowloris attack CLI in Node",
+  "bin": {
+    "sloww": "./lib/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanent/sloww.git"
+  },
+  "keywords": [
+    "slowloris",
+    "cli",
+    "research"
+  ],
+  "author": "Ethan Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethanent/sloww/issues"
+  },
+  "homepage": "https://github.com/ethanent/sloww#readme",
+  "dependencies": {
+    "gar": "^1.0.2"
+  },
+  "files": ["lib/cli.js", "LICENSE"]
+}
