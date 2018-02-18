@@ -25,6 +25,8 @@ sloww
 	--sockets number - Number of sockets to generate. Defaults to 200.
 	--respawn boolean - Respawn dead sockets? Defaults to true.
 	--rate number - Rate at which to send packets. (Milliseconds) Defaults to randomized 600-700.
+	--method string - Request method. Defaults to GET.
+	--path string - Request path. Defaults to /
 	--help - Display this help menu
 ```
 
